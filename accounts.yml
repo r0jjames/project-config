@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Personal projexts accounts related docker APIs "
+  contactDetails:
+    name: "Lanz - Developer"
+    email: "rudzjeymz@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
