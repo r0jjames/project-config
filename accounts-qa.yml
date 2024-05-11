@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Personal project accounts related QA APIs "
+  contactDetails:
+    name: "Jeymz - QA Lead"
+    email: "rudzjeymz@gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
