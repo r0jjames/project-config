@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Personal projexts accounts related docker APIs "
+  message: "Welcome to Personal projexts accounts related docker APIs - edited "
   contactDetails:
     name: "Lanz - Developer"
     email: "{cipher}ccfcd5f4fa72066a7e93bab0bd480e93533cebcb19d677af583a6326a13c2565856b134f0be1cb284a9dd86f13814390"
