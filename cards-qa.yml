@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Personal project cards related QA APIs "
+  contactDetails:
+    name: "Jeymz - QA Lead"
+    email: "{cipher}ccfcd5f4fa72066a7e93bab0bd480e93533cebcb19d677af583a6326a13c2565856b134f0be1cb284a9dd86f13814390"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
