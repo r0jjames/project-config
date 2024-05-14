@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey, welcome to Personal Project cards related - webhook APIs"
+  contactDetails:
+    name: "Rudz"
+    email: "{cipher}ccfcd5f4fa72066a7e93bab0bd480e93533cebcb19d677af583a6326a13c2565856b134f0be1cb284a9dd86f13814390"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
