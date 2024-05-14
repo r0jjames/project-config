@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Personal projexts cards related docker APIs "
+  contactDetails:
+    name: "Lanz - Developer"
+    email: "{cipher}ccfcd5f4fa72066a7e93bab0bd480e93533cebcb19d677af583a6326a13c2565856b134f0be1cb284a9dd86f13814390"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
